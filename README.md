@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hi Muggles, I´m Manu 👋
+In New york I´m Spidey <br>
+<img width="312" height="200" alt="200" src="https://github.com/user-attachments/assets/42e988fa-8137-4602-8870-e0ece7bee6c9" /><br>
+And in Gotham I´m Batman
 
-<!--
-**manugd12/manugd12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="366" height="480" alt="giphy" src="https://github.com/user-attachments/assets/c242122b-37b3-40be-89c1-e05fda33c6b9" />
+
+**manugd12/manugd12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>
+I´m studying 1ºDAW in Torremolinos,Malaga.
 
 Here are some ideas to get you started:
 
@@ -13,6 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![Profile Views](https://komarev.com)](https://github.com/antonkomarev/github-profile-views-counter)
 
